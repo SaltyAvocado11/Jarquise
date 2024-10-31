@@ -1,0 +1,22 @@
+body {
+    background-color: #d1d7dc;
+}
+h1 {
+    color: #1e2730;
+}
+h2 {
+    color: #1e2730;
+}
+
+p {
+    color: #0b233b
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#image {
+    transition: transform 0.2s ease; /* Smooth transition */
+}
